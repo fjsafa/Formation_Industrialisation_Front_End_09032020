@@ -95,4 +95,11 @@ npm i husky -D
 
 ## install lint-staged; mrm permet la configuration package.json aussi
 
-npx mrm lint-staged
+# npx mrm lint-staged
+
+## Git
+
+## merge recursive
+
+git merge --no-ff --no-edit docs/git
+git log --oneline --all --graph
