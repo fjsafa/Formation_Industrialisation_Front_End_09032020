@@ -107,7 +107,31 @@ git log --oneline --all --graph
 ## sass
 
 npm i node-sass -D
+"build:scss": "node-sass --recursive --output src/css src/scss --output-style compressed",
+// "build:scss": "node-sass --recursive --output src/css src/scss --output-style compressed",
+// "watch:scss": "nodemon --ext scss --exec npm run build:scss"
 
 ## Pour que le site soit rafraichie automatiquement
 
 npm i nodemon -D
+
+## site cani user pour chaque navigator
+
+## Méthodologie css
+
+BEM
+
+## Guides pratique js
+
+standard js
+aibnb https://github.com/airbnb/javascript
+Google javascript
+
+## pour qu'import export soit asynchrone
+
+## Il met tout dans les mêmes fichiers
+
+## financés par des dons 500K par an!
+
+https://webpack.js.org/
+npm i webpack webpack-cli -D

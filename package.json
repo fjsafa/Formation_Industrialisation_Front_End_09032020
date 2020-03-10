@@ -11,13 +11,16 @@
     "live-server": "^1.2.1",
     "node-sass": "^4.13.1",
     "nodemon": "^2.0.2",
-    "prettier": "^1.19.1"
+    "prettier": "^1.19.1",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
   },
   "scripts": {
     "serve": "live-server src --mount=/node_modules:node_modules",
     "prettier": "prettier **/*.{js,html,css,scss,md,ts,json} --write",
     "lint:html": "htmlint",
-    "build:scss": "node-sass --recursive --output src/css src/scss",
+    "build:dev": "webpack --mode development",
+    "build:prod": "webpack --mode production",
     "watch:scss": "nodemon --ext scss --exec npm run build:scss"
   },
   "prettier": {
