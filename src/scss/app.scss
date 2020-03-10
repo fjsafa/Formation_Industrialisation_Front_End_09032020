@@ -1,0 +1,13 @@
+@import '_variables';
+@import '_jumbotron';
+body {
+  color: purple;
+}
+
+a {
+  color: $main-color;
+}
+.btn-secondary {
+  background-color: $main-color;
+  border-color: darken($main-color, 10%);
+}

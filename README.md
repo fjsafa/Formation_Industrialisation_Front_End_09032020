@@ -103,3 +103,11 @@ npm i husky -D
 
 git merge --no-ff --no-edit docs/git
 git log --oneline --all --graph
+
+## sass
+
+npm i node-sass -D
+
+## Pour que le site soit rafraichie automatiquement
+
+npm i nodemon -D
