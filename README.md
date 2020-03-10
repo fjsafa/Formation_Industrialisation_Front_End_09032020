@@ -19,3 +19,13 @@ date-fns
 ## Critères de choix composant
 * Stat nb téléchargement par semaine
 * Dépendances directs
+
+## Doc bonnes pratiques
+https://github.com/kamranahmedse/developer-roadmap
+npmtrends
+
+Bootstrap bibliothèque et non pas framework
+
+## Server local
+npx live-server
+
