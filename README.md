@@ -135,3 +135,12 @@ Google javascript
 
 https://webpack.js.org/
 npm i webpack webpack-cli -D
+
+## a la mode
+
+css grid
+flex box
+
+## Pour builder la partie html
+
+npm i html-webpack-plugin -D
