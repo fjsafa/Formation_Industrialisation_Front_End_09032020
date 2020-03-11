@@ -144,3 +144,9 @@ flex box
 ## Pour builder la partie html
 
 npm i html-webpack-plugin -D
+
+## webpackdev server pour builder et lancer le serveur
+
+builder les fichier en ram
+pour que ça soit plus rapide
+npm i webpack-dev-server -D
