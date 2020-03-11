@@ -26,8 +26,8 @@
     "serve:src": "webpack-dev-server --mode development",
     "prettier": "prettier **/*.{js,html,css,scss,md,ts,json} --write",
     "lint:html": "htmlint",
-    "build:dev": "npm run lint:html && webpack --mode development",
-    "build:prod": "npm run lint:html && webpack --mode production",
+    "build:dev": "webpack --mode development",
+    "build:prod": "webpack --mode production",
     "watch:scss": "nodemon --ext scss --exec npm run build:scss"
   },
   "prettier": {

@@ -1,0 +1,18 @@
+{
+  "parent": null,
+  "pid": 13284,
+  "argv": [
+    "C:\\opt\\nodejs\\node.exe",
+    "c:\\Users\\orsys\\Desktop\\Formation\\node_modules\\mocha\\bin\\_mocha",
+    "test/**/*.js",
+    "--exit"
+  ],
+  "execArgv": [],
+  "cwd": "c:\\Users\\orsys\\Desktop\\Formation",
+  "time": 1583936478755,
+  "ppid": 12084,
+  "coverageFilename": "c:\\Users\\orsys\\Desktop\\Formation\\.nyc_output\\85f3e0dc-5279-40b6-a2ec-f9197b4b7695.json",
+  "externalId": "",
+  "uuid": "85f3e0dc-5279-40b6-a2ec-f9197b4b7695",
+  "files": []
+}

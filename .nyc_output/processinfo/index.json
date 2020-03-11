@@ -1,0 +1,12 @@
+{
+  "processes": {
+    "85f3e0dc-5279-40b6-a2ec-f9197b4b7695": { "parent": null, "children": [] },
+    "ebcac4db-e8ca-4ef3-8714-75a0910b0166": { "parent": null, "children": [] }
+  },
+  "files": {
+    "c:\\Users\\orsys\\Desktop\\Formation\\dist\\main.js": ["ebcac4db-e8ca-4ef3-8714-75a0910b0166"],
+    "c:\\Users\\orsys\\Desktop\\Formation\\src\\js\\hello.js": ["ebcac4db-e8ca-4ef3-8714-75a0910b0166"],
+    "c:\\Users\\orsys\\Desktop\\Formation\\src\\js\\main.js": ["ebcac4db-e8ca-4ef3-8714-75a0910b0166"]
+  },
+  "externalIds": {}
+}
